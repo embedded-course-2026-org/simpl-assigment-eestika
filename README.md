@@ -1,3 +1,5 @@
+# Aleksandr Bobyrev
+
 # Embedded Software Development in C/C++ - Course Template
 
 Template repository for the Embedded C/C++ Development course.
@@ -47,3 +49,4 @@ MIT License - feel free to use this for learning and projects.
 ## Contact
 
 Instructor: Aleksandr Bobyrev (@Anaga)
+
